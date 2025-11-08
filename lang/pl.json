@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Start",
+    "catalog": "Katalog",
+    "about": "O nas",
+    "contact": "Kontakt",
+    "login": "Zaloguj się",
+    "register": "Rejestracja",
+    "logout": "Wyloguj",
+    "profile": "Profil",
+    "admin": "Panel administracyjny"
+  },
+  "home": {
+    "title": "JustWindows — Katalog kompilacji Windows i programów",
+    "description": "Nowoczesny katalog aktualnych kompilacji Windows i programów z obsługą macOS. Wygodne filtry, oceny, pobrania.",
+    "hero_title": "Znajdź najlepsze kompilacje Windows i programy",
+    "hero_subtitle": "Aktualne wersje, zweryfikowane pliki, szczegółowe parametry",
+    "featured": "Polecane",
+    "categories": "Kategorie"
+  },
+  "catalog": {
+    "title": "Katalog",
+    "description": "Pełny katalog kompilacji Windows i programów z filtrami według systemu, architektury, licencji",
+    "filters": "Filtry",
+    "sort": "Sortowanie",
+    "sort_popular": "Popularne",
+    "sort_new": "Nowe",
+    "sort_rating": "Według oceny",
+    "sort_downloads": "Według pobrań",
+    "os": "System operacyjny",
+    "architecture": "Architektura",
+    "license": "Licencja",
+    "type": "Typ",
+    "type_program": "Program",
+    "type_build": "Kompilacja",
+    "apply_filters": "Zastosuj",
+    "reset_filters": "Resetuj",
+    "showing": "Wyświetlane {from} - {to} z {total}",
+    "no_results": "Brak wyników"
+  },
+  "item": {
+    "downloads": "Pobrania",
+    "views": "Wyświetlenia",
+    "rating": "Ocena",
+    "version": "Wersja",
+    "os": "OS",
+    "architecture": "Architektura",
+    "license": "Licencja",
+    "download": "Pobierz",
+    "description": "Opis",
+    "versions": "Wersje",
+    "screenshots": "Zrzuty ekranu",
+    "requirements": "Wymagania systemowe",
+    "changelog": "Historia zmian",
+    "comments": "Komentarze",
+    "similar": "Podobne",
+    "verified": "Zweryfikowano"
+  },
+  "comment": {
+    "add": "Dodaj komentarz",
+    "reply": "Odpowiedz",
+    "submit": "Wyślij",
+    "cancel": "Anuluj",
+    "placeholder": "Twój komentarz..."
+  },
+  "admin": {
+    "dashboard": "Panel",
+    "items": "Publikacje",
+    "categories": "Kategorie",
+    "tags": "Tagi",
+    "comments": "Komentarze",
+    "banners": "Banery",
+    "users": "Użytkownicy",
+    "settings": "Ustawienia"
+  },
+  "time": {
+    "just_now": "Przed chwilą",
+    "minutes_ago": "{count} min temu",
+    "hours_ago": "{count} godz temu",
+    "days_ago": "{count} dni temu"
+  },
+  "tag": {
+    "description": "Materiały z tagiem {tag}"
+  }
+}

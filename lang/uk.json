@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Головна",
+    "catalog": "Каталог",
+    "about": "Про нас",
+    "contact": "Контакти",
+    "login": "Увійти",
+    "register": "Реєстрація",
+    "logout": "Вийти",
+    "profile": "Профіль",
+    "admin": "Адмін-панель"
+  },
+  "home": {
+    "title": "JustWindows — Каталог збірок Windows і програм",
+    "description": "Сучасний каталог актуальних збірок Windows та програм з підтримкою macOS. Зручні фільтри, рейтинги, завантаження.",
+    "hero_title": "Знайдіть найкращі збірки Windows та програми",
+    "hero_subtitle": "Актуальні версії, перевірені файли, докладні характеристики",
+    "featured": "Рекомендуємо",
+    "categories": "Категорії"
+  },
+  "catalog": {
+    "title": "Каталог",
+    "description": "Повний каталог збірок Windows і програм з фільтрами за ОС, архітектурою, ліцензією",
+    "filters": "Фільтри",
+    "sort": "Сортування",
+    "sort_popular": "Популярні",
+    "sort_new": "Нові",
+    "sort_rating": "За рейтингом",
+    "sort_downloads": "За завантаженнями",
+    "os": "Операційна система",
+    "architecture": "Архітектура",
+    "license": "Ліцензія",
+    "type": "Тип",
+    "type_program": "Програма",
+    "type_build": "Збірка",
+    "apply_filters": "Застосувати",
+    "reset_filters": "Скинути",
+    "showing": "Показано {from} - {to} з {total}",
+    "no_results": "Нічого не знайдено"
+  },
+  "item": {
+    "downloads": "Завантажень",
+    "views": "Переглядів",
+    "rating": "Рейтинг",
+    "version": "Версія",
+    "os": "ОС",
+    "architecture": "Архітектура",
+    "license": "Ліцензія",
+    "download": "Завантажити",
+    "description": "Опис",
+    "versions": "Версії",
+    "screenshots": "Скріншоти",
+    "requirements": "Системні вимоги",
+    "changelog": "Історія змін",
+    "comments": "Коментарі",
+    "similar": "Схожі",
+    "verified": "Перевірено"
+  },
+  "comment": {
+    "add": "Додати коментар",
+    "reply": "Відповісти",
+    "submit": "Надіслати",
+    "cancel": "Скасувати",
+    "placeholder": "Ваш коментар..."
+  },
+  "admin": {
+    "dashboard": "Дашборд",
+    "items": "Публікації",
+    "categories": "Категорії",
+    "tags": "Теги",
+    "comments": "Коментарі",
+    "banners": "Банери",
+    "users": "Користувачі",
+    "settings": "Налаштування"
+  },
+  "time": {
+    "just_now": "Щойно",
+    "minutes_ago": "{count} хв тому",
+    "hours_ago": "{count} год тому",
+    "days_ago": "{count} дн. тому"
+  },
+  "tag": {
+    "description": "Матеріали з тегом {tag}"
+  }
+}

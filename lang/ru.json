@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Главная",
+    "catalog": "Каталог",
+    "about": "О сайте",
+    "contact": "Контакты",
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "profile": "Профиль",
+    "admin": "Админ-панель"
+  },
+  "home": {
+    "title": "JustWindows — Каталог сборок Windows и программ",
+    "description": "Современный каталог актуальных сборок Windows и программ с поддержкой macOS. Удобные фильтры, рейтинги, скачивания.",
+    "hero_title": "Найдите лучшие сборки Windows и программы",
+    "hero_subtitle": "Актуальные версии, проверенные файлы, подробные характеристики",
+    "featured": "Рекомендуемое",
+    "categories": "Категории"
+  },
+  "catalog": {
+    "title": "Каталог",
+    "description": "Полный каталог сборок Windows и программ с фильтрами по ОС, архитектуре, лицензии",
+    "filters": "Фильтры",
+    "sort": "Сортировка",
+    "sort_popular": "Популярные",
+    "sort_new": "Новые",
+    "sort_rating": "По рейтингу",
+    "sort_downloads": "По скачиваниям",
+    "os": "Операционная система",
+    "architecture": "Архитектура",
+    "license": "Лицензия",
+    "type": "Тип",
+    "type_program": "Программа",
+    "type_build": "Сборка",
+    "apply_filters": "Применить",
+    "reset_filters": "Сбросить",
+    "showing": "Показано {from} - {to} из {total}",
+    "no_results": "Ничего не найдено"
+  },
+  "item": {
+    "downloads": "Скачиваний",
+    "views": "Просмотров",
+    "rating": "Рейтинг",
+    "version": "Версия",
+    "os": "ОС",
+    "architecture": "Архитектура",
+    "license": "Лицензия",
+    "download": "Скачать",
+    "description": "Описание",
+    "versions": "Версии",
+    "screenshots": "Скриншоты",
+    "requirements": "Системные требования",
+    "changelog": "История изменений",
+    "comments": "Комментарии",
+    "similar": "Похожие",
+    "verified": "Проверено"
+  },
+  "comment": {
+    "add": "Добавить комментарий",
+    "reply": "Ответить",
+    "submit": "Отправить",
+    "cancel": "Отмена",
+    "placeholder": "Ваш комментарий..."
+  },
+  "admin": {
+    "dashboard": "Дашборд",
+    "items": "Публикации",
+    "categories": "Категории",
+    "tags": "Теги",
+    "comments": "Комментарии",
+    "banners": "Баннеры",
+    "users": "Пользователи",
+    "settings": "Настройки"
+  },
+  "time": {
+    "just_now": "Только что",
+    "minutes_ago": "{count} мин. назад",
+    "hours_ago": "{count} ч. назад",
+    "days_ago": "{count} дн. назад"
+  },
+  "tag": {
+    "description": "Материалы с тегом {tag}"
+  }
+}
