@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "admin": "Admin Panel"
+  },
+  "home": {
+    "title": "JustWindows — Catalog of Windows builds and programs",
+    "description": "Modern catalog of actual Windows builds and programs with macOS support. Convenient filters, ratings, downloads.",
+    "hero_title": "Find the best Windows builds and programs",
+    "hero_subtitle": "Actual versions, verified files, detailed specifications",
+    "featured": "Featured",
+    "categories": "Categories"
+  },
+  "catalog": {
+    "title": "Catalog",
+    "description": "Complete catalog of Windows builds and programs with filters by OS, architecture, license",
+    "filters": "Filters",
+    "sort": "Sort",
+    "sort_popular": "Popular",
+    "sort_new": "New",
+    "sort_rating": "By rating",
+    "sort_downloads": "By downloads",
+    "os": "Operating System",
+    "architecture": "Architecture",
+    "license": "License",
+    "type": "Type",
+    "type_program": "Program",
+    "type_build": "Build",
+    "apply_filters": "Apply",
+    "reset_filters": "Reset",
+    "showing": "Showing {from} - {to} of {total}",
+    "no_results": "No results found"
+  },
+  "item": {
+    "downloads": "Downloads",
+    "views": "Views",
+    "rating": "Rating",
+    "version": "Version",
+    "os": "OS",
+    "architecture": "Architecture",
+    "license": "License",
+    "download": "Download",
+    "description": "Description",
+    "versions": "Versions",
+    "screenshots": "Screenshots",
+    "requirements": "System Requirements",
+    "changelog": "Changelog",
+    "comments": "Comments",
+    "similar": "Similar",
+    "verified": "Verified"
+  },
+  "comment": {
+    "add": "Add comment",
+    "reply": "Reply",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "placeholder": "Your comment..."
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "items": "Items",
+    "categories": "Categories",
+    "tags": "Tags",
+    "comments": "Comments",
+    "banners": "Banners",
+    "users": "Users",
+    "settings": "Settings"
+  },
+  "time": {
+    "just_now": "Just now",
+    "minutes_ago": "{count} min ago",
+    "hours_ago": "{count} hours ago",
+    "days_ago": "{count} days ago"
+  },
+  "tag": {
+    "description": "Materials tagged with {tag}"
+  }
+}
