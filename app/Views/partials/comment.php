@@ -1,6 +1,6 @@
 <?php /** @var array $comment */ ?>
 <div class="comment" id="comment-<?= (int) $comment['id'] ?>">
-    <div class="comment-avatar" style="background-image:url('<?= e($comment['avatar_path'] ?? '/public/assets/img/avatar-placeholder.png') ?>')"></div>
+    <div class="comment-avatar" style="background-image:url('<?= e($comment['avatar_path'] ?? '/public/assets/img/avatar-placeholder.svg') ?>')"></div>
     <div class="comment-content">
         <div class="comment-header">
             <span class="comment-author"><?= e($comment['display_name']) ?></span>

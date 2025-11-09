@@ -14,7 +14,7 @@
         <div class="row g-4">
             <div class="col-lg-4">
                 <div class="card">
-                    <div class="card-image" style="background-image:url('<?= e($item['cover_image'] ?? '/public/assets/img/placeholder.png') ?>')"></div>
+                    <div class="card-image" style="background-image:url('<?= e($item['cover_image'] ?? '/public/assets/img/placeholder.svg') ?>')"></div>
                     <div class="card-body">
                         <h1 class="card-title"><?= e($item['title']) ?></h1>
                         <p class="text-muted mb-3"><?= e($item['short_desc']) ?></p>

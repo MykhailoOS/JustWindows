@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#grad)" />
+  <g fill="none" stroke="#374151" stroke-width="2">
+    <path d="M0 310L220 180L340 260L520 140L640 210V360H0Z" opacity="0.6" />
+    <path d="M0 220L200 120L320 200L470 90L640 170" opacity="0.4" />
+  </g>
+  <g fill="#9ca3af" font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <text x="50%" y="50%" font-size="28" font-weight="600">JustWindows</text>
+    <text x="50%" y="60%" font-size="16">Artwork coming soon</text>
+  </g>
+</svg>

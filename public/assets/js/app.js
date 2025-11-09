@@ -177,7 +177,7 @@
       const badge = isAdmin ? '<span class="card-badge admin">admin</span>' : '';
       return `
         <div class="comment" id="comment-${comment.id}">
-          <div class="comment-avatar" style="background-image:url('${comment.avatar_path || '/public/assets/img/avatar-placeholder.png'}')"></div>
+          <div class="comment-avatar" style="background-image:url('${comment.avatar_path || '/public/assets/img/avatar-placeholder.svg'}')"></div>
           <div class="comment-content">
             <div class="comment-header">
               <span class="comment-author">${comment.display_name}</span>

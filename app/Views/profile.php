@@ -5,7 +5,7 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body text-center">
-                        <div class="comment-avatar mb-3" style="margin:0 auto; width:96px; height:96px; background-image:url('<?= e($profile['avatar_path'] ?? '/public/assets/img/avatar-placeholder.png') ?>')"></div>
+                        <div class="comment-avatar mb-3" style="margin:0 auto; width:96px; height:96px; background-image:url('<?= e($profile['avatar_path'] ?? '/public/assets/img/avatar-placeholder.svg') ?>')"></div>
                         <h1 class="section-title" style="font-size:1.5rem; margin-bottom:0;"><?= e($profile['display_name']) ?></h1>
                         <p class="text-muted mt-1"><?= ucfirst($profile['role']) ?></p>
                         <?php if (!empty($profile['device_info'])): ?>
