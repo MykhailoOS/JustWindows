@@ -1,6 +1,6 @@
 <?php /** @var array $item */ ?>
 <a class="card" href="<?= url('/item/'.$item['slug']) ?>">
-    <div class="card-image" style="background-image:url('<?= e($item['cover_image'] ?? '/public/assets/img/placeholder.png') ?>')">
+    <div class="card-image" style="background-image:url('<?= e($item['cover_image'] ?? '/public/assets/img/placeholder.svg') ?>')">
         <?php if (!empty($item['is_verified'])): ?>
             <span class="card-badge verified"><i class="bi bi-patch-check-fill"></i> <?= e(t('item.verified', $lang)) ?></span>
         <?php endif; ?>

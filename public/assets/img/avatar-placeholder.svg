@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="gradAvatar" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="24" fill="url(#gradAvatar)" />
+  <circle cx="80" cy="60" r="32" fill="#bfdbfe" />
+  <path d="M40 136c4-28 24-44 40-44s36 16 40 44" fill="#93c5fd" />
+  <text x="80" y="150" font-size="18" font-family="'Segoe UI', Arial, sans-serif" fill="#1e3a8a" text-anchor="middle" font-weight="600">JW</text>
+</svg>

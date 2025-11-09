@@ -5,4 +5,4 @@ Disallow: /download?
 Disallow: */ajax-*
 Allow: /public/
 
-Sitemap: http://localhost/sitemap.xml
+Sitemap: https://justwindows.app/sitemap.xml

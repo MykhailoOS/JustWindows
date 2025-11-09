@@ -3,17 +3,17 @@ declare(strict_types=1);
 
 return [
     'db' => [
-        'host' => getenv('DB_HOST') ?: 'localhost',
+        'host' => getenv('DB_HOST') ?: 'sql308.infinityfree.com',
         'port' => getenv('DB_PORT') ?: '3306',
-        'name' => getenv('DB_NAME') ?: 'justwindows',
-        'user' => getenv('DB_USER') ?: 'root',
-        'pass' => getenv('DB_PASS') ?: '',
+        'name' => getenv('DB_NAME') ?: 'if0_39948852_just_windows',
+        'user' => getenv('DB_USER') ?: 'if0_39948852',
+        'pass' => getenv('DB_PASS') ?: 'MF10WtR86K8GIHA',
         'charset' => 'utf8mb4',
     ],
     
     'app' => [
         'name' => 'JustWindows',
-        'url' => getenv('APP_URL') ?: 'http://localhost',
+        'url' => getenv('APP_URL') ?: 'https://justwindows.app',
         'timezone' => 'UTC',
         'default_lang' => 'ru',
         'supported_langs' => ['ru', 'uk', 'en', 'pl'],
